@@ -1,4 +1,5 @@
 # 📊 Financial Risk Assessment & AI Decision-Making
+Live Demo: https://financial-risk-analysis-aman.streamlit.app/
 
 ## 🚀 Overview
 This project uses **deep learning** to predict stock prices and assess financial risk using **LSTM neural networks**. The model is trained on historical stock data fetched from **Yahoo Finance** and deployed in an interactive **Streamlit web app**.
